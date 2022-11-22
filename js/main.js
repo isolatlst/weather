@@ -6,7 +6,7 @@ async function loadWeather() {
   weatherBlock.innerHTML = `<pre class="loading"><pre>`;
   let blockLoading = document.querySelectorAll('pre')[1];
   let timerID = loading(blockLoading);
-  const server = "https://api.openweathermap.org/data/2.5/weather?q=Mogilev&lang=ru&units=metric&appid=7e101bbc1a6632e6a12acbce06f160ee";
+  const server = "https://api.openweathermap.org/data/2.5/weather?q=Mogilev&lang=ru&units=metric&appid=YOUR_ID";
   const response = await fetch(server, {
     method: 'GET'
   });
