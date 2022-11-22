@@ -1,0 +1,19 @@
+<script src="http://code.jquery.com/jquery-3.3.1.min.js"></script>
+
+
+
+
+//@prepros-append burger.js
+//@prepros-append calc.js
+//@prepros-append canvas_sine.js
+//@prepros-append form.js
+//@prepros-append ibg.js
+//@prepros-append responsive.js
+//@prepros-append required.js
+//@prepros-append script.js
+//@prepros-append slider.js
+//@prepros-append modal.js
+//@prepros-append map.js
+
+
+
